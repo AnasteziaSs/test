@@ -1,0 +1,22 @@
+header {
+  color: red;
+}
+
+h1 {
+  -webkit-column-rule-color: red;
+          column-rule-color: red;
+}
+
+title {
+  color: red;
+}
+
+h2 {
+  font-size: 55px;
+  color: red;
+}
+
+h1 {
+  color: blue;
+  font-size: 25px;
+}
